@@ -1,9 +1,9 @@
 # LAB - Class 42
 ## Project: Pythonism
 ## Author: Ediberto Ponce
-[Pull Request]()
+[Pull Request](https://github.com/ponceedi000/pythonsim/pull/1)
 ## Links and Resources
-- [Python iter()](https://www.programiz.com/python-programming/methods/built-in/iter)
+- [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ## Setup
 - Set up virtual environment in order to run `pytest`
